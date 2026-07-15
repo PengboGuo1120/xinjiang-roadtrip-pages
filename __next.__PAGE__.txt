@@ -1,9 +1,9 @@
 1:"$Sreact.fragment"
 2:I[47257,["/xinjiang-roadtrip-pages/_next/static/chunks/0dbhjjzl8qfwv.js"],"ClientPageRoot"]
-3:I[31713,["/xinjiang-roadtrip-pages/_next/static/chunks/0dbhjjzl8qfwv.js","/xinjiang-roadtrip-pages/_next/static/chunks/0dbs9p5vpjwsm.js","/xinjiang-roadtrip-pages/_next/static/chunks/17tu2tnsqbgw1.js"],"default"]
+3:I[31713,["/xinjiang-roadtrip-pages/_next/static/chunks/0dbhjjzl8qfwv.js","/xinjiang-roadtrip-pages/_next/static/chunks/0dbs9p5vpjwsm.js","/xinjiang-roadtrip-pages/_next/static/chunks/0pabmeq0rpk42.js"],"default"]
 6:I[97367,["/xinjiang-roadtrip-pages/_next/static/chunks/0dbhjjzl8qfwv.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/xinjiang-roadtrip-pages/_next/static/chunks/0dbs9p5vpjwsm.js","async":true}],["$","script","script-1",{"src":"/xinjiang-roadtrip-pages/_next/static/chunks/17tu2tnsqbgw1.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"1_Np6A2HsWzon_sfTn_0a"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/xinjiang-roadtrip-pages/_next/static/chunks/0dbs9p5vpjwsm.js","async":true}],["$","script","script-1",{"src":"/xinjiang-roadtrip-pages/_next/static/chunks/0pabmeq0rpk42.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"JQ9ttcFg-zrlgUpHgfYnQ"}
 4:{}
 5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
 8:null
