@@ -1,2 +1,4 @@
-:HL["/xinjiang-roadtrip-pages/_next/static/chunks/0u_m_o51mwsnr.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"bNCyUrpJNCYDMgmoq94lY"}
+:HL["/xinjiang-roadtrip-pages/_next/static/chunks/0rnffz9l-929u.css","style"]
+:HL["/xinjiang-roadtrip-pages/_next/static/chunks/0bvhetbyl5f_z.css","style"]
+:HL["/xinjiang-roadtrip-pages/_next/static/chunks/0l_g_4rpkg1fw.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"7slIgSivB96gW12FANRab"}
