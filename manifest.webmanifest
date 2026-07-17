@@ -1,0 +1,41 @@
+{
+  "id": "./",
+  "name": "北疆秋日公路",
+  "short_name": "北疆自驾",
+  "description": "北疆双人自驾的逐日路线、住宿、天气、清单与弱网应急入口。",
+  "lang": "zh-CN",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f5efe2",
+  "theme_color": "#1e3a2c",
+  "categories": ["travel", "navigation", "lifestyle"],
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "今日行程",
+      "short_name": "今日",
+      "url": "./#today"
+    },
+    {
+      "name": "天气与路况",
+      "short_name": "天气",
+      "url": "./#weather"
+    },
+    {
+      "name": "出发清单",
+      "short_name": "清单",
+      "url": "./#ready"
+    }
+  ],
+  "prefer_related_applications": false
+}
