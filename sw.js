@@ -1,7 +1,7 @@
 /* global self, caches, fetch */
 
 const CACHE_PREFIX = "xinjiang-roadtrip-shell";
-const CACHE_VERSION = "2026-09-11-notebook-v1";
+const CACHE_VERSION = "2026-09-22-departure-guide-v1";
 const SHELL_CACHE = `${CACHE_PREFIX}-${CACHE_VERSION}`;
 const scopeUrl = new URL("./", self.registration.scope);
 const shellUrl = scopeUrl.href;
